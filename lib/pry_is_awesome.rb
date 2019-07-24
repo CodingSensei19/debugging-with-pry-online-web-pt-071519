@@ -10,4 +10,4 @@ def prying_into_the_method
 end
 
 prying_into_the_method
-lib/pry_is_awesome.rb
+rubylib/pry_is_awesome.rb
